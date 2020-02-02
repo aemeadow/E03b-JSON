@@ -1,6 +1,6 @@
 # E03b-JSON
 
-This is a a json file from zork edited to fit the MSCH 220 assignmeny specs. 
+This is a a json file from zork edited to fit the MSCH 220 assignment specs. 
 The edits are as follows:
 
 Changed the exit in FORE3 from UP to DOWN
